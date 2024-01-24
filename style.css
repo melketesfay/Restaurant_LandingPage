@@ -91,7 +91,7 @@ nav a:hover::after {
 /* Navbar mobile/hamburger menu */
 
 .navbar-hamburger {
-
+    margin: 0;
     position: absolute;
     z-index: 100;
     top: 6%;
@@ -102,10 +102,7 @@ nav a:hover::after {
     justify-self: center;
     align-self: center;
     list-style: none;
-
-
     padding-left: 0;
-
 }
 
 
